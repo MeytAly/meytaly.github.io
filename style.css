@@ -135,6 +135,10 @@ html::-webkit-scrollbar-thumb {
     max-width: 100%;
 }
 
+.trailer_text {
+    text-align: center;
+}
+
 @media (max-width: 768px) {
     .trailer {
         width: auto !important;
@@ -144,10 +148,6 @@ html::-webkit-scrollbar-thumb {
     
     .trailer-section {
         padding: 15px;
-    }
-    
-    .trailer_text {
-        font-size: 1.2rem;
     }
 }
 
