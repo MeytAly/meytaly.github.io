@@ -43,7 +43,8 @@ A website I did out of fun beacuse why shouldn't I?
 
 ## Project Structure
 
-```├── index.html      # Main HTML file with page structure
+```
+├── index.html      # Main HTML file with page structure
 ├── script.js       # JavaScript for animations and interactions
 ├── style.css       # Styling and responsive design
 ├── README.md       # This file
@@ -51,7 +52,8 @@ A website I did out of fun beacuse why shouldn't I?
     ├── Phainon.jpg
     ├── Irontomb.png
     ├── khaslana.png
-    └── Chrysos heirs.webp
+    ├── Chrysos heirs.webp
+    └── coreflame_of_worldbearing.webp
 ```
 
 ## Sections
